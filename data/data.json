@@ -1,0 +1,33 @@
+{
+  "id": "_z6be96k6n",
+  "name": "root-element",
+  "settings":{},
+  "type": "root-element",
+  "children": [
+    {
+      "id": "_zo812h0tp",
+      "name": "section",
+      "settings":{},
+      "type": "section",
+      "children": [
+        {
+          "id": "_jx59k2nmo",
+          "name": "column",
+          "settings": {},
+          "type": "column",
+          "children": [
+            {
+              "id": "_0ud9a5wwq",
+              "name": "heading",
+              "settings": {
+                "text": "I Am Advanced Heading"
+              },
+              "type": "widget",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
